@@ -1,9 +1,8 @@
 import cv2
 from ultralytics import YOLO
-model = YOLO('yolov8n.pt')
+model = YOLO('yolov5n.pt')
 
 # print(model)
-
 # video_path = 'video/video_cut.mp4'
 video_path = 'video/test.mp4'
 cap = cv2.VideoCapture(0)
