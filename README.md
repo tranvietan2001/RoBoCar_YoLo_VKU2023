@@ -11,4 +11,4 @@
 - source env/bin/activate
 - pip install opencv-python
 - pip install opencv-contrib-python
-- pip insyall ultralytics
+- pip install ultralytics
